@@ -7,9 +7,9 @@
   ],
   "rules": {
     "react/react-in-jsx-scope": "off",
-    "quotes": ["error", "single"],
+    "quotes": [2, "double"],
     "semi": ["error", "always"],
-    "no-unused-vars": ["error"],
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
     "prettier/prettier": [
       "error",
       {
