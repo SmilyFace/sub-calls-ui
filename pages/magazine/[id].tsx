@@ -36,8 +36,10 @@ const MagazineCalls: React.FC = () => {
         const data: Call[] = await response.json();
         setCalls(data);
         setVisibleCalls(data.slice(0, 20)); // Show initial 20 items
-      } catch (err: any) {
-        setError(err.message);
+      } catch (err: unknown) {
+        if (err instanceof Error) {
+          setError(err.message);
+        }
       } finally {
         setIsLoading(false);
       }
@@ -133,7 +135,11 @@ const MagazineCalls: React.FC = () => {
             </thead>
             <tbody>
               {visibleCalls.map((call) => (
-                <Row key={call.id} call={call} onRowClick={openModal} />
+                <Row
+                  key={call.magazineId.$oid}
+                  call={call}
+                  onRowClick={openModal}
+                />
               ))}
             </tbody>
           </table>

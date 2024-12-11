@@ -1,7 +1,5 @@
-export type ObjectId = { $oid: string };
-
 export interface Call {
-  id: string; // _id.$oid
+  id: { $oid: string };
   type: string;
   title: string;
   description: string;
@@ -10,7 +8,7 @@ export interface Call {
   minPiecesPerSub?: number | null;
   maxPiecesPerSub: number | null;
   status: string;
-  magazineId: string;
+  magazineId: { $oid: string };
   medium: {
     print: boolean;
     online: boolean;

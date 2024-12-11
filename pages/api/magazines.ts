@@ -27,8 +27,13 @@ export default async function handler(
   try {
     await loadMagazines();
     res.status(200).json(magazinesCache);
-  } catch (error) {
-    console.error('Error in magazines handler:', error);
-    res.status(500).json({ error: 'Failed to load magazines data' });
+  } catch (error: unknown) {
+    if (error instanceof Error) {
+      console.error('Error in magazines handler:', error.message);
+      res.status(500).json({ error: error.message });
+    } else {
+      console.error('Unknown error in magazines handler:', error);
+      res.status(500).json({ error: 'Failed to load magazines data' });
+    }
   }
 }
