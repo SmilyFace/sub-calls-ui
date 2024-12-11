@@ -7,14 +7,16 @@
   ],
   "rules": {
     "react/react-in-jsx-scope": "off",
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "no-unused-vars": ["error"],
     "prettier/prettier": [
       "error",
       {
         "singleQuote": true,
-        "semi": true
+        "semi": true,
+        "useTabs": false
       }
-    ],
-    "quotes": ["error", "single"],
-    "semi": ["error", "always"]
+    ]
   }
 }
