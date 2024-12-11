@@ -14,9 +14,14 @@ const loadMagazines = async (): Promise<void> => {
     magazinesCache = JSON.parse(fileContents) as Magazine[];
     isCacheLoaded = true;
     console.log('Magazines data loaded into memory.');
-  } catch (error) {
-    console.error('Failed to load magazines data:', error);
-    throw error;
+  } catch (error: unknown) {
+    if (error instanceof Error) {
+      console.error('Failed to load magazines data:', error.message);
+      throw new Error(`Failed to load magazines data: ${error.message}`);
+    } else {
+      console.error('Failed to load magazines data: Unknown error', error);
+      throw new Error('Failed to load magazines data: Unknown error occurred');
+    }
   }
 };
 
