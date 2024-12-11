@@ -41,7 +41,7 @@ const Row: React.FC<RowProps> = ({ call, onRowClick }) => {
         <div>{getActiveGenres(call)}</div>
         <div
           className={`block tablet:hidden text-sm text-gray-500 capitalize 
-            ${!isDisabled(call.status) ? `text-[#15803d]` : ``}
+            ${!isDisabled(call.status) ? 'text-[#15803d]' : ''}
         `}
         >
           {call.status}
