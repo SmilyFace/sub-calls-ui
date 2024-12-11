@@ -2,6 +2,7 @@ import React from 'react';
 import { Call } from '../models/Calls';
 import IconButton from '../components/IconButton';
 import Badge from './Bagde';
+import ImageWithSkeleton from './Image';
 import {
   getDisplayTitle,
   getActiveGenres,
@@ -46,17 +47,12 @@ const Modal: React.FC<ModalProps> = ({
             {getDisplayTitle(data.title, data.subGenre)}
           </h2>
 
-          <div className="mb-3">
+          <div className="mb-3 flex items-center">
             <span className="gray">Call by</span>
-            <img
+            <ImageWithSkeleton
               src={data.magazineCover || '/image.webp'}
-              className="h-6 w-6 inline-block mx-1.5 rounded-full object-cover"
-              alt="Magazine Cover"
-              onError={(e) => {
-                const target = e.target as HTMLImageElement;
-                target.onerror = null;
-                target.src = '/image.webp';
-              }}
+              alt={data.title}
+              className="h-6 w-6 inline-block mx-1.5"
             />
             <span>{magazineName}</span>
           </div>
