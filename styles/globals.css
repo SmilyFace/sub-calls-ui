@@ -6,15 +6,15 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #18181B;
+  --foreground: #18181b;
   --title-color: #161616;
-  --gray-color: #71717A;
+  --gray-color: #71717a;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #fff;
-    --foreground: #18181B;
+    --foreground: #18181b;
   }
 }
 
@@ -30,7 +30,8 @@ body {
   font-weight: 400;
 }
 
-h1, h2 {
+h1,
+h2 {
   color: var(--title-color);
   font-family: 'Inter';
   font-style: normal;

@@ -7,12 +7,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography",
-      "audio",
-      "video"
-    ],
+    "subGenre": ["art", "photography", "audio", "video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -122,9 +117,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -454,9 +447,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -676,9 +667,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -788,9 +777,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "humor"
-    ],
+    "subGenre": ["humor"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -900,9 +887,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -1225,9 +1210,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -1330,9 +1313,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -1435,9 +1416,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "wtf"
-    ],
+    "subGenre": ["wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -1633,9 +1612,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography"
-    ],
+    "subGenre": ["photography"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -1733,9 +1710,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "wtf"
-    ],
+    "subGenre": ["wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -2137,10 +2112,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography"
-    ],
+    "subGenre": ["art", "photography"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -2243,9 +2215,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -2348,9 +2318,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -2453,9 +2421,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -2661,9 +2627,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -2873,9 +2837,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -2978,9 +2940,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 13,
     "status": "closed",
@@ -3078,9 +3038,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -3178,9 +3136,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -3376,9 +3332,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -3574,9 +3528,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -3885,11 +3837,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography",
-      "video"
-    ],
+    "subGenre": ["art", "photography", "video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -4095,10 +4043,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography",
-      "art"
-    ],
+    "subGenre": ["photography", "art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 8,
     "status": "closed",
@@ -4407,9 +4352,7 @@
     "title": "SPAM Cuts",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -4615,9 +4558,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -4823,9 +4764,7 @@
     "title": "Censorship",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -5531,9 +5470,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -5739,9 +5676,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -6462,9 +6397,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -6567,9 +6500,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography"
-    ],
+    "subGenre": ["photography"],
     "minPiecesPerSub": 6,
     "maxPiecesPerSub": 12,
     "status": "closed",
@@ -6878,9 +6809,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -7086,9 +7015,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -7191,9 +7118,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -7502,9 +7427,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -7813,9 +7736,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -8027,9 +7948,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -8132,11 +8051,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "video",
-      "audio",
-      "art"
-    ],
+    "subGenre": ["video", "audio", "art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 6,
     "status": "closed",
@@ -8657,9 +8572,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -8765,9 +8678,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -8865,9 +8776,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -9063,9 +8972,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -9261,9 +9168,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -9361,9 +9266,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -9466,9 +9369,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -9571,9 +9472,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -9877,9 +9776,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 8,
     "status": "closed",
@@ -10093,9 +9990,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -10618,9 +10513,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -10723,12 +10616,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography",
-      "audio",
-      "video"
-    ],
+    "subGenre": ["art", "photography", "audio", "video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 7,
     "status": "open",
@@ -10831,9 +10719,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -10931,9 +10817,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -11139,9 +11023,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -11244,9 +11126,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -11452,10 +11332,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography"
-    ],
+    "subGenre": ["art", "photography"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -11959,9 +11836,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -12059,9 +11934,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -12159,9 +12032,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -12357,9 +12228,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -12555,9 +12424,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "humor"
-    ],
+    "subGenre": ["humor"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -12753,9 +12620,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -12853,9 +12718,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -12953,9 +12816,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -13151,9 +13012,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -13359,9 +13218,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 10,
     "status": "open",
@@ -13464,9 +13321,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -13765,10 +13620,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "audio"
-    ],
+    "subGenre": ["art", "audio"],
     "minPiecesPerSub": 5,
     "maxPiecesPerSub": 20,
     "status": "open",
@@ -14062,9 +13914,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -14162,9 +14012,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -14267,9 +14115,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -14372,9 +14218,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -14588,9 +14432,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -15422,9 +15264,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -15527,9 +15367,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "humor"
-    ],
+    "subGenre": ["humor"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -15632,9 +15470,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -15737,9 +15573,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -15945,10 +15779,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all",
-      "experimental"
-    ],
+    "subGenre": ["all", "experimental"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -16257,10 +16088,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all",
-      "experimental"
-    ],
+    "subGenre": ["all", "experimental"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -16466,9 +16294,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -16571,9 +16397,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -16779,10 +16603,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all",
-      "wtf"
-    ],
+    "subGenre": ["all", "wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -16885,10 +16706,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all",
-      "wtf"
-    ],
+    "subGenre": ["all", "wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -16991,9 +16809,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -17096,9 +16912,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -17201,10 +17015,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography"
-    ],
+    "subGenre": ["art", "photography"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -17307,9 +17118,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -17721,9 +17530,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "closed",
@@ -17924,9 +17731,7 @@
     "title": "Red",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -18029,9 +17834,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -18129,11 +17932,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary",
-      "fantasy",
-      "scienceFiction"
-    ],
+    "subGenre": ["literary", "fantasy", "scienceFiction"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -18231,11 +18030,7 @@
     "title": "Red",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary",
-      "fantasy",
-      "scienceFiction"
-    ],
+    "subGenre": ["literary", "fantasy", "scienceFiction"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -18338,11 +18133,7 @@
     "title": "Red",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary",
-      "fantasy",
-      "scienceFiction"
-    ],
+    "subGenre": ["literary", "fantasy", "scienceFiction"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -18445,9 +18236,7 @@
     "title": "Red",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -18550,9 +18339,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -18753,11 +18540,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary",
-      "fantasy",
-      "scienceFiction"
-    ],
+    "subGenre": ["literary", "fantasy", "scienceFiction"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -19056,9 +18839,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "video"
-    ],
+    "subGenre": ["video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -19156,9 +18937,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "audio"
-    ],
+    "subGenre": ["audio"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -19457,9 +19236,7 @@
     "title": "Red",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "video"
-    ],
+    "subGenre": ["video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -19562,9 +19339,7 @@
     "title": "Red",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "audio"
-    ],
+    "subGenre": ["audio"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -19667,9 +19442,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "open",
@@ -19772,10 +19545,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "video"
-    ],
+    "subGenre": ["art", "video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -19878,9 +19648,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -19983,9 +19751,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "open",
@@ -20088,9 +19854,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -20296,9 +20060,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -20401,9 +20163,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -20506,11 +20266,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography",
-      "art",
-      "video"
-    ],
+    "subGenre": ["photography", "art", "video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -20613,12 +20369,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary",
-      "experimental",
-      "humor",
-      "lgbtq"
-    ],
+    "subGenre": ["literary", "experimental", "humor", "lgbtq"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -20824,9 +20575,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -20929,12 +20678,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary",
-      "experimental",
-      "humor",
-      "lgbtq"
-    ],
+    "subGenre": ["literary", "experimental", "humor", "lgbtq"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "closed",
@@ -21037,9 +20781,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -21348,9 +21090,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -21453,9 +21193,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "interview"
-    ],
+    "subGenre": ["interview"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -21558,9 +21296,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -21972,10 +21708,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "game",
-      "art"
-    ],
+    "subGenre": ["game", "art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -22395,9 +22128,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -23027,9 +22758,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "wtf"
-    ],
+    "subGenre": ["wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -23235,9 +22964,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -23443,9 +23170,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -23651,9 +23376,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -23756,9 +23479,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography"
-    ],
+    "subGenre": ["photography"],
     "minPiecesPerSub": 12,
     "maxPiecesPerSub": 20,
     "status": "open",
@@ -24052,9 +23773,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": 3,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -24353,9 +24072,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "closed",
@@ -24458,9 +24175,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -24872,9 +24587,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -25276,9 +24989,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -25376,9 +25087,7 @@
     "title": "Baby One More Time",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -25579,9 +25288,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -25684,10 +25391,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography",
-      "art"
-    ],
+    "subGenre": ["photography", "art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -25785,9 +25489,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "interview"
-    ],
+    "subGenre": ["interview"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -25885,9 +25587,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -25985,10 +25685,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary",
-      "experimental"
-    ],
+    "subGenre": ["literary", "experimental"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -26287,9 +25984,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -26392,9 +26087,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -26492,10 +26185,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary",
-      "experimental"
-    ],
+    "subGenre": ["literary", "experimental"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -26593,9 +26283,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -26698,9 +26386,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -26906,9 +26592,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -27114,9 +26798,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -27222,9 +26904,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -27542,9 +27222,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "micro",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -27753,10 +27431,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography",
-      "art"
-    ],
+    "subGenre": ["photography", "art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -27859,9 +27534,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "wtf"
-    ],
+    "subGenre": ["wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -28067,9 +27740,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -28172,9 +27843,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "wtf"
-    ],
+    "subGenre": ["wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -28277,9 +27946,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -28597,9 +28264,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -28901,9 +28566,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "micro",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -29001,9 +28664,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -29101,9 +28762,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -29201,9 +28860,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": 3,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -29301,9 +28958,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "interview"
-    ],
+    "subGenre": ["interview"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -29401,9 +29056,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -29501,9 +29154,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -29606,9 +29257,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -29711,9 +29360,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -29919,13 +29566,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all",
-      "literary",
-      "absurdist",
-      "experimental",
-      "wtf"
-    ],
+    "subGenre": ["all", "literary", "absurdist", "experimental", "wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -30028,9 +29669,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -30236,9 +29875,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -30532,9 +30169,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -30844,9 +30479,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -30952,9 +30585,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -31060,9 +30691,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -31271,11 +30900,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "audio",
-      "game"
-    ],
+    "subGenre": ["art", "audio", "game"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -31378,9 +31003,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -31483,9 +31106,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -31794,9 +31415,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -31899,9 +31518,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -32016,9 +31633,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -32133,9 +31748,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -32480,9 +32093,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography"
-    ],
+    "subGenre": ["photography"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -32695,9 +32306,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -32795,9 +32404,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -32895,9 +32502,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -33191,9 +32796,7 @@
     "title": "SAD CHRISTMAS",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -33296,9 +32899,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -33396,10 +32997,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary",
-      "experimental"
-    ],
+    "subGenre": ["literary", "experimental"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -33601,10 +33199,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary",
-      "experimental"
-    ],
+    "subGenre": ["literary", "experimental"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -33911,9 +33506,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -34119,9 +33712,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -34224,9 +33815,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -34535,9 +34124,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -34743,9 +34330,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -34848,9 +34433,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -35056,9 +34639,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -35470,9 +35051,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 10,
     "status": "open",
@@ -35575,9 +35154,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "humor"
-    ],
+    "subGenre": ["humor"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -35680,9 +35257,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -35888,9 +35463,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 4,
     "status": "open",
@@ -36096,9 +35669,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "video"
-    ],
+    "subGenre": ["video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -36201,9 +35772,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -36306,9 +35875,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -36411,10 +35978,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography",
-      "art"
-    ],
+    "subGenre": ["photography", "art"],
     "minPiecesPerSub": 3,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -36517,9 +36081,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -36622,9 +36184,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -36727,9 +36287,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -36935,9 +36493,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -37040,9 +36596,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -37145,9 +36699,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -37353,9 +36905,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -37462,11 +37012,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "video",
-      "photography",
-      "art"
-    ],
+    "subGenre": ["video", "photography", "art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -37787,9 +37333,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -37896,9 +37440,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -38005,9 +37547,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "interview"
-    ],
+    "subGenre": ["interview"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -38114,9 +37654,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -38223,9 +37761,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -38752,9 +38288,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -39990,9 +39524,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -40095,9 +39627,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 6,
     "status": "closed",
@@ -40200,12 +39730,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all",
-      "literary",
-      "absurdist",
-      "speculative"
-    ],
+    "subGenre": ["all", "literary", "absurdist", "speculative"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -40623,11 +40148,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "audio",
-      "art",
-      "video"
-    ],
+    "subGenre": ["audio", "art", "video"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -41039,9 +40560,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -41787,9 +41306,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "experimental"
-    ],
+    "subGenre": ["experimental"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "open",
@@ -41995,10 +41512,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography"
-    ],
+    "subGenre": ["art", "photography"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -42204,9 +41718,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": 2,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -42421,9 +41933,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -42750,10 +42260,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all",
-      "wtf"
-    ],
+    "subGenre": ["all", "wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "closed",
@@ -42859,12 +42366,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography",
-      "video",
-      "art",
-      "audio"
-    ],
+    "subGenre": ["photography", "video", "art", "audio"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -43182,10 +42684,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all",
-      "wtf"
-    ],
+    "subGenre": ["all", "wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -43397,9 +42896,7 @@
     "title": "Heartbreaker",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -43502,10 +42999,7 @@
     "title": "Heartbreaker",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography"
-    ],
+    "subGenre": ["art", "photography"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "open",
@@ -43608,10 +43102,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography",
-      "art"
-    ],
+    "subGenre": ["photography", "art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -43820,9 +43311,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -44665,9 +44154,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -44884,9 +44371,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography"
-    ],
+    "subGenre": ["photography"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -44989,9 +44474,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -45393,9 +44876,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -45890,9 +45371,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -45995,9 +45474,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -46100,9 +45577,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -46205,9 +45680,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "photography"
-    ],
+    "subGenre": ["photography"],
     "minPiecesPerSub": 30,
     "maxPiecesPerSub": 50,
     "status": "closed",
@@ -46516,9 +45989,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -46621,9 +46092,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -46726,9 +46195,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -47037,9 +46504,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -47245,9 +46710,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -47453,9 +46916,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "closed",
@@ -47867,9 +47328,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -47972,11 +47431,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "literary",
-      "children",
-      "youngAdult"
-    ],
+    "subGenre": ["literary", "children", "youngAdult"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -48079,11 +47534,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary",
-      "children",
-      "youngAdult"
-    ],
+    "subGenre": ["literary", "children", "youngAdult"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -48392,9 +47843,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -48497,9 +47946,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -48602,9 +48049,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -48810,9 +48255,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -48915,9 +48358,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "interview"
-    ],
+    "subGenre": ["interview"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -49020,11 +48461,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "literary",
-      "experimental",
-      "magicalRealism"
-    ],
+    "subGenre": ["literary", "experimental", "magicalRealism"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -49127,9 +48564,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -49227,9 +48662,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": 3,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -49327,9 +48760,7 @@
     "title": "Teen Sequins",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": 3,
     "maxPiecesPerSub": 5,
     "status": "closed",
@@ -49432,9 +48863,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -49532,9 +48961,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": 5,
     "maxPiecesPerSub": 20,
     "status": "closed",
@@ -49632,9 +49059,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -50036,9 +49461,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -50141,10 +49564,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "flash",
-    "subGenre": [
-      "all",
-      "wtf"
-    ],
+    "subGenre": ["all", "wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "closed",
@@ -50453,10 +49873,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "all",
-      "wtf"
-    ],
+    "subGenre": ["all", "wtf"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -50559,9 +49976,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -50664,9 +50079,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "prosePoems"
-    ],
+    "subGenre": ["prosePoems"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -50769,9 +50182,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "closed",
@@ -50977,9 +50388,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "review"
-    ],
+    "subGenre": ["review"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 3,
     "status": "open",
@@ -51082,12 +50491,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art",
-      "photography",
-      "video",
-      "audio"
-    ],
+    "subGenre": ["art", "photography", "video", "audio"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 10,
     "status": "open",
@@ -51190,9 +50594,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
@@ -51295,9 +50697,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 1,
     "status": "open",
@@ -51400,9 +50800,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "comics"
-    ],
+    "subGenre": ["comics"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 10,
     "status": "open",
@@ -51505,9 +50903,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "art"
-    ],
+    "subGenre": ["art"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": 2,
     "status": "closed",
@@ -51816,9 +51212,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "general",
-    "subGenre": [
-      "all"
-    ],
+    "subGenre": ["all"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "closed",
@@ -52024,9 +51418,7 @@
     "title": "General call",
     "description": "",
     "genreStyle": "longRead",
-    "subGenre": [
-      "literary"
-    ],
+    "subGenre": ["literary"],
     "minPiecesPerSub": null,
     "maxPiecesPerSub": null,
     "status": "open",
