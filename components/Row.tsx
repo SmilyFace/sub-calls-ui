@@ -14,6 +14,7 @@ import { Call } from '../models/Calls';
 
 interface RowProps {
   call: Call;
+  // eslint-disable-next-line no-unused-vars
   onRowClick: (call: Call) => void;
 }
 
