@@ -29,7 +29,7 @@ const Row: React.FC<RowProps> = ({ call, onRowClick }) => {
           alt={call.title}
         />
       </td>
-      <td className="pl-2">
+      <td className="pl-2 w-1/2 tablet:w-auto">
         <span className="capitalize">
           {getDisplayTitle(call.title, call.subGenre)}
         </span>
@@ -37,9 +37,13 @@ const Row: React.FC<RowProps> = ({ call, onRowClick }) => {
       <td className="hidden tablet:table-cell min-w-[85px]">
         <Badge status={call.status} />
       </td>
-      <td>
+      <td className="w-1/2 tablet:w-auto">
         <div>{getActiveGenres(call)}</div>
-        <div className="block tablet:hidden text-sm text-gray-500">
+        <div
+          className={`block tablet:hidden text-sm text-gray-500 capitalize 
+            ${!isDisabled(call.status) ? `text-[#15803d]` : ``}
+        `}
+        >
           {call.status}
         </div>
       </td>
