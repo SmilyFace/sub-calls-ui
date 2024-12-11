@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+public/
+coverage/
+*.config.js
+*.config.cjs
+*.config.ts
+*.config.json
