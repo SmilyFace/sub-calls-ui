@@ -33,7 +33,7 @@ export default async function handler(
     const { magazineId } = req.query;
     if (magazineId && typeof magazineId === 'string') {
       const filteredSubcalls = subcallsCache.filter(
-        (call) => call.magazineId.$oid === magazineId,
+        (item) => item.magazineId.$oid === magazineId,
       );
       return res.status(200).json(filteredSubcalls);
     }

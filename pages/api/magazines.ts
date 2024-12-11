@@ -38,7 +38,7 @@ export default async function handler(
       res.status(500).json({ error: error.message });
     } else {
       console.error('Unknown error in magazines handler:', error);
-      res.status(500).json({ error: 'Failed to load magazines data' });
+      res.status(500).json({ error: 'Failed to load magazines data' }); // eslint-disable-line quotes
     }
   }
 }
