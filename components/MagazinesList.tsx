@@ -19,8 +19,10 @@ const MagazinesList: React.FC = () => {
         }
         const data: Magazine[] = await response.json();
         setMagazines(data);
-      } catch (err: any) {
-        setError(err.message);
+      } catch (err: unknown) {
+        if (err instanceof Error) {
+          setError(err.message);
+        }
       } finally {
         setIsLoading(false);
       }

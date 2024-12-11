@@ -4,5 +4,17 @@
     "next/typescript",
     "eslint:recommended",
     "plugin:prettier/recommended"
-  ]
+  ],
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": true,
+        "semi": true
+      }
+    ],
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"]
+  }
 }
