@@ -2,6 +2,7 @@ import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 import { ParsedUrlQuery } from 'querystring';
 import Head from 'next/head';
+import Link from 'next/link';
 import { Call } from '../../models/Calls';
 import Modal from '../../components/Modal';
 import Row from '../../components/Row';
@@ -19,6 +20,9 @@ const MagazineCalls: React.FC = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedCall, setSelectedCall] = useState<Call | null>(null);
 
+  const [visibleCalls, setVisibleCalls] = useState<Call[]>([]);
+  const [hasMore, setHasMore] = useState(true);
+
   useEffect(() => {
     if (!id) return;
 
@@ -30,6 +34,7 @@ const MagazineCalls: React.FC = () => {
         }
         const data: Call[] = await response.json();
         setCalls(data);
+        setVisibleCalls(data.slice(0, 20)); // Show initial 20 items
       } catch (err: any) {
         setError(err.message);
       } finally {
@@ -39,6 +44,33 @@ const MagazineCalls: React.FC = () => {
 
     fetchCalls();
   }, [id]);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (
+        window.innerHeight + document.documentElement.scrollTop >=
+          document.documentElement.offsetHeight - 100 &&
+        hasMore
+      ) {
+        loadMore();
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [hasMore, calls, visibleCalls]);
+
+  const loadMore = () => {
+    if (visibleCalls.length >= calls.length) {
+      setHasMore(false);
+      return;
+    }
+    const nextCalls = calls.slice(
+      visibleCalls.length,
+      visibleCalls.length + 20,
+    );
+    setVisibleCalls((prev) => [...prev, ...nextCalls]);
+  };
 
   const openModal = (call: Call) => {
     setSelectedCall(call);
@@ -73,7 +105,11 @@ const MagazineCalls: React.FC = () => {
         <title>Sub Calls</title>
       </Head>
       <div className="p-[20px] max-w-[1480px] min-w-[375px] mx-auto">
-        <h1 className="text-4xl mb-[32px] text-left">Sub Calls</h1>
+        <h1 className="text-4xl mb-[32px] text-left">
+          <Link href="/" className="">
+            Sub Calls
+          </Link>
+        </h1>
         <div className="overflow-x-auto">
           <table className="table-auto w-full border-collapse">
             <thead>
@@ -95,7 +131,7 @@ const MagazineCalls: React.FC = () => {
               </tr>
             </thead>
             <tbody>
-              {calls.map((call) => (
+              {visibleCalls.map((call) => (
                 <Row key={call.id} call={call} onRowClick={openModal} />
               ))}
             </tbody>
