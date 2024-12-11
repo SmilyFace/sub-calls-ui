@@ -1,0 +1,68 @@
+[
+  {
+    "id": "01",
+    "name": "The Quill Review",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef5c9"
+  },
+  {
+    "id": "02",
+    "name": "Ink & Imagination",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef612"
+  },
+  {
+    "id": "03",
+    "name": "The Written Word",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef5e8"
+  },
+  {
+    "id": "04-1",
+    "name": "Prose & Poetry",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef60e"
+  },
+  {
+    "id": "04-2",
+    "name": "Narrative Nexus",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef5da"
+  },
+  {
+    "id": "05",
+    "name": "Verse & Vision",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef5f3"
+  },
+  {
+    "id": "06",
+    "name": "The Storyteller's Journal",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef606"
+  },
+  {
+    "id": "07",
+    "name": "Literary Echoes",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef61c"
+  },
+  {
+    "id": "08",
+    "name": "The Creative Canvas",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef617"
+  },
+  {
+    "id": "09",
+    "name": "Fiction & Form",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef604"
+  },
+  {
+    "id": "10",
+    "name": "The Literary Lantern",
+    "cover": "",
+    "magazineId": "62ab31c2fbf0c12f402ef5c6"
+  }
+]
